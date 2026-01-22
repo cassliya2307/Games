@@ -132,7 +132,7 @@ public class TicTacToe {
         }
     }
 
-    private String oWins() {
+    public String oWins() {
         return "O WINS";
     }
 }
